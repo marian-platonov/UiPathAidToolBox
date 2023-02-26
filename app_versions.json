@@ -1,22 +1,22 @@
 [
     {
         "versionId":"v1.0.1",
-        "url":"https://raw.githubusercontent.commarian-platonovuipath_orchestrator_managermain1.zip",
+        "url":"https://raw.githubusercontent.com/marian-platonov/uipath_orchestrator_manager/main/1.zip",
 		"releaseNotesUrl":"https://google1.com"
     },
     {
         "versionId":"v1.0.2",
-        "url":"https://raw.githubusercontent.commarian-platonovuipath_orchestrator_managermain2.zip",
+        "url":"https://raw.githubusercontent.com/marian-platonov/uipath_orchestrator_manager/main/2.zip",
 		"releaseNotesUrl":"https://google2.com"
     },	
 {
 	"versionId":"v1.0.3",
-    "ur":"https://drive.google.comu0ucid=18_YRN6NMZt5UEqeb_VO6mKJYjTdUMwEI&export=download",
+    "ur":"https://drive.google.com/u/0/uc?id=18_YRN6NMZt5UEqeb_VO6mKJYjTdUMwEI&export=download",
 	"releaseNotesUrl":"https://google3.com"
     },
 {
 	"versionId":"v1.0.4",
-    "ur":"https://drive.google.comu0ucid=18_YRN6NMZt5UEqeb_VO6mKJYjTdUMwEI&export=download",
+    "ur":"https://drive.google.com/u/0/uc?id=18_YRN6NMZt5UEqeb_VO6mKJYjTdUMwEI&export=download",
 	"releaseNotesUrl":"https://google4.com"
     }	
 ]
