@@ -9,5 +9,11 @@
         "versionId": "v1.0.2",
         "url": "https://raw.githubusercontent.com/marian-platonov/uipath_orchestrator_manager/main/2.zip",
 		"releaseNotesUrl": "https://google.com"
+    },
+	 ,
+    {
+        "versionId": "v1.0.3",
+        "url": "https://drive.google.com/u/0/uc?id=18_YRN6NMZt5UEqeb_VO6mKJYjTdUMwEI&export=download",
+		"releaseNotesUrl": "https://google.com"
     }
 ]
